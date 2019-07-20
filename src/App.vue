@@ -1,20 +1,44 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <HeaderNav />
+    <b-container class="content">
+      <b-row>
+        <b-col cols="2">
+          <ProductFilter />
+        </b-col>
+        <b-col cols="8">
+          <Content />
+        </b-col>
+        <b-col cols="2">
+          <Sale />
+        </b-col>
+      </b-row>
+    </b-container>
   </div>
 </template>
 
+<script>
+import HeaderNav from "./components/HeaderNav";
+import Content from "./components/Content";
+import ProductFilter from "./components/ProductFilter";
+import Sale from "./components/Sale";
+
+export default {
+  name: "app",
+  components: {
+    HeaderNav,
+    Content,
+    ProductFilter,
+    Sale
+  }
+};
+</script>
+
+
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+}
+.content{
+  padding-top: 20px;
 }
 </style>
