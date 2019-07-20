@@ -6,19 +6,33 @@
           <hr>
       </b-container>
       
-      <ProductList />
+      <ProductList :products="products"/>
   </b-card>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import ProductList from '../components/ProductList';
+import ProductList from '../components/ProductList.vue';
+import HttpService from '../services/HttpService';
 
+const httpService = new HttpService();
 export default {
   name: 'catalog',
+  data(){
+    return {
+      products: []
+    }
+  },
   components: {
     ProductList
+  },
+  methods: {
+
+  },
+  created(){
+    this.products = httpService.getAllProducts();
+    console.log(this.products);
   }
 }
 </script>
