@@ -2,6 +2,7 @@
   <div>
     <b-container>
       <h3> Catalog </h3>
+      <hr>
       <b-row>
         <b-col cols="4" :key="p.id" v-for="p in allProducts">
           <ProductListItem :product="p" />

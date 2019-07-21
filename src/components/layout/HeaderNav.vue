@@ -6,46 +6,57 @@
           <router-link class="brand" to="/">Supermarket</router-link>
         </b-navbar-brand>
 
-
-        <b-navbar-nav >
-           <b-nav-item>
-            <router-link class="navlink" to="/about">About</router-link>
+        <b-navbar-nav>
+          <b-nav-item>
+            <router-link class="navlinkright" to="/">Products</router-link>
+          </b-nav-item>
+          <b-nav-item>
+            <router-link class="navlinkright" to="/about">About</router-link>
           </b-nav-item>
         </b-navbar-nav>
-
 
         <b-navbar-nav class="ml-auto">
-           <b-nav-item>
-            <router-link class="navlink" to="/cart">Shopping cart</router-link>
+          <b-nav-item>
+            <router-link class="navlink" to="/cart">
+              Shopping cart (
+              <b>2</b>)
+            </router-link>
           </b-nav-item>
-
         </b-navbar-nav>
-
       </b-container>
     </b-navbar>
   </div>
 </template>
 
 <style scoped>
-
 .brand {
   color: #f8f9fa;
   text-decoration: none;
   padding-left: 20px;
 }
-.brand:hover{
+.brand:hover {
   color: #fff !important;
 }
 
 .navlink {
-  color: rgba(255,255,255,.5);
+  color: rgba(255, 255, 255, 0.5);
   text-decoration: none;
   padding-right: 20px;
 }
 
-.navlink:hover{
+.navlinkright{
+    color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+}
+
+.navlink:hover {
   color: #f8f9fa;
 }
+.navlinkright:hover {
+  color: #f8f9fa;
+}
+
+
 </style>
 
 

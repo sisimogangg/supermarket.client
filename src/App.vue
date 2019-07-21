@@ -37,6 +37,7 @@ export default {
 
 <style>
 #app {
+  background-color: #FCF8F7;
 }
 .content{
   padding-top: 20px;

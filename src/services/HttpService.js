@@ -82,7 +82,6 @@ export default class HttpService{
     }
 
     getCartItems(){
-        console.log('HttpService : ',cartItems);
         return cartItems;
     }
     

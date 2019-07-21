@@ -4,22 +4,22 @@ import HttpService from '../../services/HttpService';
 const httpService = new HttpService();
 
 const state = {
-    items: []
+    cartItems: []
 };
 
 const getters = {
-    allItems: (state) => state.items
+    allCartItems: (state) => state.cartItems
 };
 
 const actions = {
-    async fetchItems({commit}){
+    async fetchCartItems({commit}){
         const res = await httpService.getCartItems();
         commit('setCartItems', res);
     }
 };
 
 const mutations = {
-    setCartItems: (state, items) => state.items = items
+    setCartItems: (state, items) => state.cartItems = items
 };
 
 export default {

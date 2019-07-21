@@ -2,6 +2,8 @@
   <div id="details">
     <b-container>
       <h3>Product Details</h3>
+      <hr>
+
       <b-row>
         <b-col>
           <b-img :src="product.imageUrl" fluid alt="Fluid image"></b-img>
@@ -9,9 +11,11 @@
         <b-col>
           <h3>{{product.name}}</h3>
           <p>Buy 2 for the price of 1</p>
-          <h2>{{product.price.amount.symbol+ ' ' + product.price.amount}}</h2>
+          <h2>{{product.price.symbol+ ' ' + product.price.amount}}</h2>
 
-          <b-button @click="$emit('add-to-cart', product.id)" variant="success">Add to Cart</b-button>
+          <b-button variant="info">
+            Add to Cart <i class="fas fa-cart-plus"></i>
+          </b-button>
         </b-col>
       </b-row>
     </b-container>
