@@ -44,11 +44,15 @@ export default class HttpService{
     }
 
     getProductById(id){
-        return products.filter(r => r.id == id)[0];
+        return products.filter(r => r.id === id)[0];
+    }
+
+    filterProductByName(name){
+        return products.filter(p => p.name === name);
     }
 
     addToCart(item){
-        var c = cartItems.filter(i => i.id == item.id)[0];
+        var c = cartItems.filter(i => i.id === item.id)[0];
         if(c){
             c.quantity += 1;
             const index = cartItems.findIndex(i => i.id === item.id);

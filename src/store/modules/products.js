@@ -20,7 +20,13 @@ const actions = {
     },
     async fetchSelectedProduct({commit}, id){
         const res = await httpService.getProductById(id);
+
         commit('setSelectedProduct', res);
+    },
+    async filterProducts({commit}, name){
+        const res = await httpService.filterProductByName(name);
+        commit('setProducts', res);
+
     }
 };
 

@@ -4,7 +4,7 @@
       <h3>Product Filter</h3>
 
       <!-- <b-button size="lg" variant="primary" @click="handleClick">Apple</b-button> -->
-      <b-form-group id="form">
+      <b-form-group id="form" @change="handleClick">
         <b-form-radio v-model="selected" name="some-radios" value="All">All</b-form-radio>
         <b-form-radio v-model="selected" name="some-radios" value="Apple">Apple</b-form-radio>
         <b-form-radio v-model="selected" name="some-radios" value="Banana">Banana</b-form-radio>
@@ -15,6 +15,7 @@
 </template>
 
 <script>
+import {mapActions} from 'vuex';
 export default {
   name: "app-filter",
   data(){
@@ -23,8 +24,9 @@ export default {
       }
   },
   methods: {
-    handleClick() {
-      
+    ...mapActions(['filterProducts']),
+    handleClick(checked) {
+       console.log('Selected :', this.selected);
     }
   }
 };
