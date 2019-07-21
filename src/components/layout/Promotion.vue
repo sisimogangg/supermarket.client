@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: "sale",
+  name: "promotion",
   data() {
     return {
       slide: 0,

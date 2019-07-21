@@ -9,7 +9,8 @@ const products = [
        name: 'Apple',
        price: {
         "amount": "2.00",
-        "currency": "RSA"
+        "currency": "RSA",
+        "symbol": 'R'
     }
     },
     {
@@ -18,7 +19,8 @@ const products = [
         name: 'Banana',
         price: {
             "amount": "2.00",
-            "currency": "RSA"
+            "currency": "RSA",
+            "symbol": 'R'
         }
     },
     {
@@ -27,10 +29,13 @@ const products = [
         name: 'Coconut',
         price: {
             "amount": "2.00",
-            "currency": "RSA"
+            "currency": "RSA",
+            "symbol": 'R'
         }
     }
 ];
+
+let bucket = [];
 
 export default class HttpService{
 
@@ -56,4 +61,10 @@ export default class HttpService{
                 return 'R';
         }
     }
+
+    addToCart(id){
+        var p = this.getProductById(id);
+        bucket.push(p);
+    }
+    
 }

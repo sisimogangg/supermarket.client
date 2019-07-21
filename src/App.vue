@@ -10,7 +10,7 @@
           <Content />
         </b-col>
         <b-col cols="2">
-          <Sale />
+          <Promotion />
         </b-col>
       </b-row>
     </b-container>
@@ -18,10 +18,10 @@
 </template>
 
 <script>
-import HeaderNav from "./components/HeaderNav";
-import Content from "./components/Content";
-import ProductFilter from "./components/ProductFilter";
-import Sale from "./components/Sale";
+import HeaderNav from "./components/layout/HeaderNav";
+import Content from "./components/layout/Content";
+import ProductFilter from "./components/layout/ProductFilter";
+import Promotion from "./components/layout/Promotion";
 
 export default {
   name: "app",
@@ -29,7 +29,7 @@ export default {
     HeaderNav,
     Content,
     ProductFilter,
-    Sale
+    Promotion
   }
 };
 </script>
