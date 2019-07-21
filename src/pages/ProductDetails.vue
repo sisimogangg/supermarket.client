@@ -13,9 +13,10 @@
           <p>Buy 2 for the price of 1</p>
           <h2>{{selectedProduct.price.symbol + ' ' + selectedProduct.price.amount}}</h2>
 
-          <b-button variant="info">
-            Add to Cart
-            <i class="fas fa-cart-plus"></i>
+           <hr>
+          <b-button @click="addToCart" variant="info">
+            <div v-if="clicked"><i class="fas fa-check-circle"></i> Added to Cart</div>
+            <div v-else><i class="fas fa-cart-plus"></i> Add to Cart</div>
           </b-button>
         </b-col>
       </b-row>
@@ -28,7 +29,36 @@ import { mapGetters, mapActions } from "vuex";
 
 export default {
   name: "productDetails",
-  methods: mapActions(['fetchSelectedProduct']),
+  data() {
+    return {
+      clicked: false
+    };
+  },
+  methods: {
+    ...mapActions(["fetchSelectedProduct", "addItemToCard"]),
+    addToCart() {
+      // get list of cart items
+      // check if this item already exist
+      // increment
+      var product = {
+        id: this.selectedProduct.id,
+        imageUrl: this.selectedProduct.imageUrl,
+        name: this.selectedProduct.name,
+        quantity: 1,
+        promotion: "3 for 2",
+        price: this.selectedProduct.price
+      };
+
+      this.addItemToCard(product);
+
+      this.clicked = true;
+      setTimeout(() => {
+        this.clicked = false;
+      }, 1000);
+
+      // check if this product is in discount
+    }
+  },
   computed: mapGetters(["selectedProduct"]),
   props: ["id"],
   created() {
@@ -38,4 +68,7 @@ export default {
 </script>
 
 <style scoped>
+b-button{
+  width: 100%;
+}
 </style>

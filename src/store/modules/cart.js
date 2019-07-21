@@ -4,11 +4,13 @@ import HttpService from '../../services/HttpService';
 const httpService = new HttpService();
 
 const state = {
-    cartItems: []
+    cartItems: [],
+    itemCount: 0
 };
 
 const getters = {
-    allCartItems: (state) => state.cartItems
+    allCartItems: (state) => state.cartItems,
+    itemCount: (state) => state.itemCount
 };
 
 const actions = {
@@ -16,15 +18,22 @@ const actions = {
         const res = await httpService.getCartItems();
         commit('setCartItems', res);
     },
-    async addItemToCard({commit}, id){
-        const res = httpService.addToCart(id);
+    async addItemToCard({commit}, item){
+        const res = httpService.addToCart(item);
 
-        commit('setCartItems', res)
+        commit('incrementCount');
+        commit('setCartItems', res);
+    },
+    async removeItemFromCard({commit}, id){
+      await httpService.removeFromCard(id);
+      commit('removeFromCard', id);
     }
 };
 
 const mutations = {
-    setCartItems: (state, items) => state.cartItems = items
+    setCartItems: (state, items) => state.cartItems = items,
+    incrementCount: (state) => state.itemCount++,
+    removeFromCard: (state, id) => state.cartItems = state.cartItems.filter(r => r.id !== id)
 };
 
 export default {

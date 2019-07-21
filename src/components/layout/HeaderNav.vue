@@ -19,7 +19,7 @@
           <b-nav-item>
             <router-link class="navlink" to="/cart">
               Shopping cart (
-              <b>2</b>)
+              <b>{{itemCount}}</b> )
             </router-link>
           </b-nav-item>
         </b-navbar-nav>
@@ -27,6 +27,16 @@
     </b-navbar>
   </div>
 </template>
+
+<script>
+import { mapGetters} from 'vuex';
+export default {
+  name: 'header-nav',
+  computed: mapGetters(['itemCount']),
+
+}
+</script>
+
 
 <style scoped>
 .brand {

@@ -33,33 +33,7 @@ const products = [
     }
 ];
 
-const cartItems = [
-    {
-        id: 2,
-        imageUrl: 'https://images.unsplash.com/photo-1528825871115-3581a5387919?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=658&q=80',
-        name: 'Banana',
-        quantity: 3,
-        added: '',
-        promotion: '3 for 2',
-        price: {
-            "amount": "2.00",
-            "currency": "RSA",
-            "symbol": 'R'
-        }
-    },
-    {
-        id: 3,
-        imageUrl: 'https://images.unsplash.com/photo-1560769680-ba2f3767c785?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjExMDk0fQ&auto=format&fit=crop&w=700&q=80',
-        name: 'Coconut',
-        quantity: 2,
-        promotion: '2 for 1',
-        price: {
-            "amount": "2.00",
-            "currency": "RSA",
-            "symbol": 'R'
-        }
-    }
-];
+let cartItems = [];
 
 
 export default class HttpService{
@@ -73,10 +47,24 @@ export default class HttpService{
         return products.filter(r => r.id == id)[0];
     }
 
-    addToCart(id){
-        var p = this.getProductById(id);
-        cartItems.push(p);
+    addToCart(item){
+        var c = cartItems.filter(i => i.id == item.id)[0];
+        if(c){
+            c.quantity += 1;
+            const index = cartItems.findIndex(i => i.id === item.id);
+
+            if(index !== -1){
+                cartItems.splice(index, 1, c);
+                return cartItems;
+            }
+        }
+
+        cartItems.push(item);
         return cartItems;
+    }
+
+    removeFromCard(id){
+        cartItems = cartItems.filter(r => r.id !== id);
     }
 
     getCartItems(){

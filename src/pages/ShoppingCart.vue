@@ -21,11 +21,11 @@
             </td>
             <td>{{item.price.amount}}</td>
             <td>
-              <b-form-input type="number" :value="subtotal" id="subtotal"></b-form-input>
+              <b-form-input type="number" :value="item.quantity" id="subtotal"></b-form-input>
             </td>
             <td>{{subtotal}}</td>
             <td>
-              <b-button variant="danger">
+              <b-button @click="removeItemFromCard(item.id)" variant="danger">
                   <i class="fas fa-trash-alt"></i>
                   </b-button>
             </td>
@@ -58,10 +58,10 @@ export default {
     ShoppingCartItem
   },
   methods: {
-      ...mapActions(["fetchCartItems"]),
+      ...mapActions(['fetchCartItems', 'removeItemFromCard']),
       computeTotal(){}
   },
-  computed: mapGetters(["allCartItems"]),
+  computed: mapGetters(['allCartItems']),
   created() {
     this.fetchCartItems();
   }
