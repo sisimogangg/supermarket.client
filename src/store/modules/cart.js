@@ -15,6 +15,11 @@ const actions = {
     async fetchCartItems({commit}){
         const res = await httpService.getCartItems();
         commit('setCartItems', res);
+    },
+    async addItemToCard({commit}, id){
+        const res = httpService.addToCart(id);
+
+        commit('setCartItems', res)
     }
 };
 

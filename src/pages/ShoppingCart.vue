@@ -57,7 +57,10 @@ export default {
   components: {
     ShoppingCartItem
   },
-  methods: mapActions(["fetchCartItems"]),
+  methods: {
+      ...mapActions(["fetchCartItems"]),
+      computeTotal(){}
+  },
   computed: mapGetters(["allCartItems"]),
   created() {
     this.fetchCartItems();

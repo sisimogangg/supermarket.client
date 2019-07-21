@@ -3,11 +3,13 @@ import HttpService from '../../services/HttpService';
 const httpService = new HttpService();
 
 const state = {
-  products: []
+  products: [],
+  selectedProduct: {}
 };
 
 const getters = {
-    allProducts: (state) => state.products
+    allProducts: (state) => state.products,
+    selectedProduct: (state) => state.selectedProduct
 };
 const actions = {
     async fetchProducts({commit}){
@@ -15,11 +17,16 @@ const actions = {
 
         commit('setProducts', res);
 
+    },
+    async fetchSelectedProduct({commit}, id){
+        const res = await httpService.getProductById(id);
+        commit('setSelectedProduct', res);
     }
 };
 
 const mutations = {
-    setProducts: (state, products) => state.products = products
+    setProducts: (state, products) => state.products = products,
+    setSelectedProduct: (state, product) => state.selectedProduct = product
 };
 
 export default {

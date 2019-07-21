@@ -20,11 +20,6 @@
 <script>
 export default {
   name: "shopping-cart-item",
-  data() {
-    return {
-      subtotal: 0
-    };
-  },
   props: ["item"]
 };
 </script>

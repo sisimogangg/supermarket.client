@@ -1,7 +1,5 @@
 //import axios from 'axions';
 
-const apiBaseURL = '';
-
 const products = [
     {
        id: 1,
@@ -63,7 +61,6 @@ const cartItems = [
     }
 ];
 
-let bucket = [];
 
 export default class HttpService{
 
@@ -78,7 +75,8 @@ export default class HttpService{
 
     addToCart(id){
         var p = this.getProductById(id);
-        bucket.push(p);
+        cartItems.push(p);
+        return cartItems;
     }
 
     getCartItems(){
