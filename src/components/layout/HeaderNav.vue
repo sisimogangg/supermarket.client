@@ -15,7 +15,9 @@
 
 
         <b-navbar-nav class="ml-auto">
-          <b-nav-item>Shopping cart</b-nav-item>
+           <b-nav-item>
+            <router-link class="navlink" to="/cart">Shopping cart</router-link>
+          </b-nav-item>
 
         </b-navbar-nav>
 
