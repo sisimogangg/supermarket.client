@@ -26,8 +26,11 @@ export default {
   methods: {
     ...mapActions(['filterProducts']),
     handleClick(checked) {
-       console.log('Selected :', this.selected);
+       //console.log('Selected :', this.selected);
     }
+  },
+  updated(){
+      this.filterProducts(this.selected);
   }
 };
 </script>

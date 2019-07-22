@@ -48,6 +48,7 @@ export default class HttpService{
     }
 
     filterProductByName(name){
+        if(name === 'All') return products;
         return products.filter(p => p.name === name);
     }
 
