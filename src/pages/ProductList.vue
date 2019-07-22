@@ -25,6 +25,7 @@ export default {
   methods: mapActions(['fetchProducts']),
   computed: mapGetters(['allProducts']),
   created() {
+    if (this.allProducts.length === 0)
      this.fetchProducts();
   }
 };
