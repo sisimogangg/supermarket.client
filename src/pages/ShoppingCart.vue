@@ -21,7 +21,7 @@
             </td>
             <td>{{item.price.amount}}</td>
             <td>
-              <b-form-input type="number" :value="item.quantity" id="subtotal"></b-form-input>
+              <b-input type="number" :value="item.quantity" @change="computeTotal()" id="subtotal"></b-input>
             </td>
             <td>{{subtotal}}</td>
             <td>
@@ -59,7 +59,9 @@ export default {
   },
   methods: {
       ...mapActions(['fetchCartItems', 'removeItemFromCard']),
-      computeTotal(){}
+      computeTotal(value){
+        console.log('new value ',  value);
+      }
   },
   computed: mapGetters(['allCartItems']),
   created() {

@@ -7,7 +7,7 @@
         </b-navbar-brand>
 
         <b-navbar-nav>
-          <b-nav-item>
+          <b-nav-item >
             <router-link class="navlinkright" to="/">Products</router-link>
           </b-nav-item>
           <b-nav-item>
@@ -64,6 +64,10 @@ export default {
 }
 .navlinkright:hover {
   color: #f8f9fa;
+}
+
+.active {
+   color: #f8f9fa;
 }
 
 
