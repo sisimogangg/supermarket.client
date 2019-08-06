@@ -1,0 +1,93 @@
+[2019-07-22 20:03:04.621] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/.vscode'
+[2019-07-22 20:03:04.622] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/.vscode'
+[2019-07-22 20:03:29.513] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:03:31.398] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:04:51.925] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:04:53.046] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:05:42.185] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:05:44.868] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:11:02.735] [renderer1] [warning] null
+[2019-07-22 20:12:50.110] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:13:54.821] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:14:26.242] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)

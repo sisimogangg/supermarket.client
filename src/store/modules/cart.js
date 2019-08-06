@@ -3,6 +3,7 @@ import HttpService from '../../services/HttpService';
 
 const httpService = new HttpService();
 
+
 const state = {
     cartItems: [],
     itemCount: 0

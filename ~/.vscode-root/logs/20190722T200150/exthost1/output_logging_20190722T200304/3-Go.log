@@ -1,0 +1,557 @@
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/main.go:1: expected 'package', found 'EOF'
+
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Not able to determine import path of current package by using cwd: /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api and Go workspace: 
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check .
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/main.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:1: expected 'package', found 'EOF'
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:5: exported type Service should have comment or be unexported
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:8: undefined: productID
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:8: undefined: productID
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:8: syntax error: mixed named and unnamed function parameters
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service/service.go:8: syntax error: mixed named and unnamed function parameters
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages products (repository.go) and service (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages products (repository.go) and service (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages products (repository.go) and service (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages products (repository.go) and service (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages products (repository.go) and service (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages products (repository.go) and service (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/models
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/models
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/models
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/models
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/models
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/models
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/models>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:8: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:9: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/repository.go:9: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:7: undefined: Product
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products/service.go:8: undefined: Product
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go vet ./...
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-gozunk3f/go-code-check github.com/sisimogangg/supermarket.product.api/products
+can't load package: package github.com/sisimogangg/supermarket.product.api/products: found packages repository (repository.go) and products (service.go) in /home/thubelihle/repos/go/src/github.com/sisimogangg/supermarket.product.api/products
+
+

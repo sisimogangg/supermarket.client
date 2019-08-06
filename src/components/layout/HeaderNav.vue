@@ -3,7 +3,7 @@
     <b-navbar type="dark" variant="dark">
       <b-container>
         <b-navbar-brand>
-          <router-link class="brand" to="/">Supermarket</router-link>
+          <router-link class="brand" to="/">FruitMarket</router-link>
         </b-navbar-brand>
 
         <b-navbar-nav>

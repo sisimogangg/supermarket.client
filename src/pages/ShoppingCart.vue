@@ -21,7 +21,7 @@
             </td>
             <td>{{item.price.amount}}</td>
             <td>
-              <b-input type="number" :value="item.quantity" @change="computeTotal()" id="subtotal"></b-input>
+              <b-input type="number" :value="item.quantity" @change="computeTotal($event)" id="subtotal"></b-input>
             </td>
             <td>{{subtotal}}</td>
             <td>

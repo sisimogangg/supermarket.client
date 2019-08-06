@@ -1,0 +1,147 @@
+[2019-07-22 20:01:57.661] [exthost] [info] extension host started
+[2019-07-22 20:01:57.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.698] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-22 20:01:57.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.701] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-22 20:01:57.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.718] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-22 20:01:57.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.843] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-22 20:01:57.849] [exthost] [info] ExtensionService#_doActivateExtension odubuc.mysql-inline-decorator {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.849] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/odubuc.mysql-inline-decorator-0.0.5/out/extension
+[2019-07-22 20:01:57.851] [exthost] [info] ExtensionService#_doActivateExtension spmeesseman.vscode-taskexplorer {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.851] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/spmeesseman.vscode-taskexplorer-1.19.3/out/extension
+[2019-07-22 20:01:57.944] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:01:57.944] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-22 20:01:58.112] [exthost] [info] eager extensions activated
+[2019-07-22 20:03:02.388] [exthost] [info] extension host started
+[2019-07-22 20:03:02.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.405] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-22 20:03:02.408] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.408] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-22 20:03:02.424] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.424] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-22 20:03:02.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.516] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-22 20:03:02.523] [exthost] [info] ExtensionService#_doActivateExtension odubuc.mysql-inline-decorator {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.523] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/odubuc.mysql-inline-decorator-0.0.5/out/extension
+[2019-07-22 20:03:02.525] [exthost] [info] ExtensionService#_doActivateExtension spmeesseman.vscode-taskexplorer {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.525] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/spmeesseman.vscode-taskexplorer-1.19.3/out/extension
+[2019-07-22 20:03:02.583] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-22 20:03:02.583] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-22 20:03:03.009] [exthost] [info] ExtensionService#_doActivateExtension 766b.go-outliner {"startup":true,"activationEvent":"workspaceContains:**/*.go"}
+[2019-07-22 20:03:03.009] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/766b.go-outliner-0.1.20/out/extension
+[2019-07-22 20:03:03.028] [exthost] [info] eager extensions activated
+[2019-07-22 20:03:04.421] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-07-22 20:03:04.421] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goMain
+[2019-07-22 20:03:04.623] [exthost] [info] ExtensionService#_doActivateExtension msyrus.go-doc {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-07-22 20:03:04.623] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/msyrus.go-doc-0.1.1/out/extension
+[2019-07-22 20:03:04.630] [exthost] [info] ExtensionService#_doActivateExtension quillaja.goasm {"startup":false,"activationEvent":"onLanguage:go"}
+[2019-07-22 20:03:04.630] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/quillaja.goasm-0.0.4/autocomplete/extension
+[2019-07-22 20:03:23.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-22 20:03:23.433] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-07-22 20:03:23.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-22 20:03:23.451] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-07-22 20:03:23.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-22 20:03:23.572] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-22 20:03:29.508] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:03:29.511] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:03:31.397] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:03:31.397] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:04:51.916] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:04:51.916] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:04:53.043] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:04:53.044] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:05:42.173] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:05:42.173] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:05:44.866] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:05:44.866] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:11:02.732] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:11:02.732] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2019-07-22 20:12:50.099] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:12:50.099] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:13:54.819] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:13:54.819] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)
+[2019-07-22 20:14:26.240] [exthost] [error] [ms-vscode.Go] provider FAILED
+[2019-07-22 20:14:26.240] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:308)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:347:257)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:335:813)
+	at forEach.decl (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:112:28)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:91:19)
+	at /home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:28:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/thubelihle/.vscode/extensions/ms-vscode.go-0.11.4/out/src/goOutline.js:8:58)

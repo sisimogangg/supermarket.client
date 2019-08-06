@@ -2,7 +2,7 @@
  <div>
   <b-card @click="showDetails()"
     :title="product.name"
-    :img-src="product.imageUrl"
+    :img-src="product.imageURL"
     img-alt="Image"
     img-top
     img-height="250"
@@ -12,14 +12,16 @@
     class="mb-2"
   >
     <b-card-text>
-      {{ product.price.symbol + ' ' + product.price.amount}}
+       <Price :price="product.price.amount"/>
+      <br>
+      <div v-if="product.discount !== undefined"><b-badge variant="danger">On Sale</b-badge></div>
     </b-card-text>
   </b-card>
 </div>
 </template>
 
 <script>
-
+import Price from '../components/PriceRender';
 
 export default {
    name: 'product',
@@ -28,6 +30,9 @@ export default {
        showDetails(){
          this.$router.push({name: 'details', params:{id: this.product.id}});
        }
+   },
+   components:{
+     Price
    }
 }
 </script>

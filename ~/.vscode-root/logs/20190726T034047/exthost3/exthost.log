@@ -1,0 +1,16 @@
+[2019-07-26 03:40:52.814] [exthost] [info] extension host started
+[2019-07-26 03:40:52.919] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:52.923] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-26 03:40:52.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:52.941] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-26 03:40:53.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:53.001] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-26 03:40:53.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:53.415] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-26 03:40:53.457] [exthost] [info] ExtensionService#_doActivateExtension odubuc.mysql-inline-decorator {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:53.457] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/odubuc.mysql-inline-decorator-0.0.5/out/extension
+[2019-07-26 03:40:53.468] [exthost] [info] ExtensionService#_doActivateExtension spmeesseman.vscode-taskexplorer {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:53.468] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/spmeesseman.vscode-taskexplorer-1.19.3/out/extension
+[2019-07-26 03:40:53.858] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-26 03:40:53.858] [exthost] [info] ExtensionService#loadCommonJSModule /home/thubelihle/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-26 03:40:54.261] [exthost] [info] eager extensions activated

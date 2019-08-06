@@ -1,10 +1,13 @@
 <template>
   <div>
     <b-container>
-      <h3> Catalog </h3>
-      <hr>
+      <h3>Catalog</h3>
+      <hr />
       <b-row>
-        <b-col cols="4" :key="p.id" v-for="p in allProducts">
+        <b-col v-if="allProducts.length == 0">
+          <Spinner />
+        </b-col>
+        <b-col v-else cols="4" :key="p.id" v-for="p in allProducts">
           <ProductListItem :product="p" />
         </b-col>
       </b-row>
@@ -14,20 +17,22 @@
 
 
 <script>
-import ProductListItem from "../components/ProductListItem";
-import {mapGetters, mapActions} from 'vuex';
+import ProductListItem from "../components/ProductListItem.vue";
+import Spinner from "../components/Spinner.vue";
+import { mapGetters, mapActions } from "vuex";
 
 export default {
   name: "product-list",
   components: {
-    ProductListItem
+    ProductListItem,
+    Spinner
   },
-  methods: mapActions(['fetchProducts']),
-  computed: mapGetters(['allProducts']),
+  methods: mapActions(["fetchProducts"]),
+  computed: mapGetters(["allProducts"]),
   created() {
-    if (this.allProducts.length === 0)
-     this.fetchProducts();
+    if (this.allProducts.length === 0) this.fetchProducts();
   }
 };
 </script>
+
 

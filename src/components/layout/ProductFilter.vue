@@ -31,12 +31,7 @@ export default {
       ]
     };
   },
-  methods: {
-    ...mapActions(["filterProducts"]),
-    handleClick(checked) {
-      //console.log('Selected :', this.selected);
-    }
-  },
+  methods: mapActions(["filterProducts"]),
   updated() {
     this.filterProducts(this.selected);
   }

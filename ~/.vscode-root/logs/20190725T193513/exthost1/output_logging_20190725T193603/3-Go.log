@@ -1,0 +1,32 @@
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-goq1MUAm/go-code-check github.com/sisimogangg/happyFeet.profileAI/profile/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-goq1MUAm/go-code-check github.com/sisimogangg/happyFeet.profileAI/profile/service
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/profile/service>Finished running tool: /usr/local/go/bin/go vet ./...
+
+Starting linting the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI
+Starting "go vet" under the folder /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI
+Starting building the current package at /home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI>Finished running tool: /home/thubelihle/repos/go/bin/golint
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI>Finished running tool: /usr/local/go/bin/go build -i -o /tmp/vscode-goq1MUAm/go-code-check github.com/sisimogangg/happyFeet.profileAI
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/main.go:72: not enough arguments in call to service.NewProfileService
+
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI>Finished running tool: /usr/local/go/bin/go vet ./...
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/main.go:72: not enough arguments in call to service.NewProfileService
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/controllers/profileController.go:25: cannot use 0 (type int) as type string in field value
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/controllers/profileController.go:25: unknown field 'DateStarted' in struct literal of type models.Kid
+/home/thubelihle/repos/go/src/github.com/sisimogangg/happyFeet.profileAI/controllers/profileController.go:36: cannot use kids (type []models.Kid) as type []*models.Kid in field value
+

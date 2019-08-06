@@ -1,0 +1,16 @@
+[2019-07-22 20:01:55.833] [sharedprocess] [info] main {"machineId":"55a00c82f352758a449610efa0319d0643ef6112c05f709280ca542f57f1eecc"}
+[2019-07-22 20:01:57.514] [sharedprocess] [info] Deleted from disk visualstudioexptteam.vscodeintellicode /home/thubelihle/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.7
+[2019-07-22 20:01:57.518] [sharedprocess] [info] Deleted from disk georgewfraser.vscode-javac /home/thubelihle/.vscode/extensions/georgewfraser.vscode-javac-0.2.20
+[2019-07-22 20:02:00.521] [sharedprocess] [info] Installing extension: vscjava.vscode-java-test
+[2019-07-22 20:02:04.943] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-test /tmp/9eb4ba85-7fdc-4da6-993d-fbc55758e382
+[2019-07-22 20:02:05.118] [sharedprocess] [info] Extracted extension to /home/thubelihle/.vscode/extensions/.vscjava.vscode-java-test-0.18.2: vscjava.vscode-java-test
+[2019-07-22 20:02:05.118] [sharedprocess] [info] Renamed to /home/thubelihle/.vscode/extensions/vscjava.vscode-java-test-0.18.2
+[2019-07-22 20:02:05.119] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test
+[2019-07-22 20:02:05.171] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2019-07-22 20:02:35.761] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-22 20:22:19.246] [sharedprocess] [info] Installing extension: file-icons.file-icons
+[2019-07-22 20:22:22.926] [sharedprocess] [info] Downloaded extension: file-icons.file-icons /tmp/ebb00e81-a119-4216-82b2-6a84d0da6619
+[2019-07-22 20:22:26.571] [sharedprocess] [info] Extracted extension to /home/thubelihle/.vscode/extensions/.file-icons.file-icons-1.0.17: file-icons.file-icons
+[2019-07-22 20:22:26.571] [sharedprocess] [info] Renamed to /home/thubelihle/.vscode/extensions/file-icons.file-icons-1.0.17
+[2019-07-22 20:22:26.573] [sharedprocess] [info] Installation completed. file-icons.file-icons
+[2019-07-22 20:22:26.592] [sharedprocess] [info] Extensions installed successfully: file-icons.file-icons

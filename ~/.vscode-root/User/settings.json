@@ -1,0 +1,6 @@
+{
+    "go.inferGopath": true,
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorTheme": "Monokai GRS",
+    "editor.fontSize": 15
+}
